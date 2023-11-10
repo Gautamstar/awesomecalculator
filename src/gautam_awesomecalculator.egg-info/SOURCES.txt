@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+calculator/__init__.py
+calculator/core.py
+gautam_awesomecalculator.egg-info/PKG-INFO
+gautam_awesomecalculator.egg-info/SOURCES.txt
+gautam_awesomecalculator.egg-info/dependency_links.txt
+gautam_awesomecalculator.egg-info/top_level.txt
+tests/__init__.py
+tests/testscalculatortests.py

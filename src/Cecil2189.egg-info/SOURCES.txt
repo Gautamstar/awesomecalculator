@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Cecil2189.egg-info/PKG-INFO
+Cecil2189.egg-info/SOURCES.txt
+Cecil2189.egg-info/dependency_links.txt
+Cecil2189.egg-info/top_level.txt
+calculator/__init__.py
+calculator/core.py
+tests/__init__.py
+tests/testscalculatortests.py
